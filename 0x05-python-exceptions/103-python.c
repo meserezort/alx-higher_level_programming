@@ -10,7 +10,7 @@ i#include <Python.h>
  * print_python_bytes - print python things
  * @p: pointer to PyObject p
  */
-void print_python_bytes(PyObject *p)
+void print_python_bytes(PyObject * p)
 {
 	size_t b, i;
 	char *str;
