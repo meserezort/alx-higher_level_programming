@@ -1,13 +1,10 @@
 #!/usr/bin/python3
-"""Square generation module for Python project 0x06
+"""Square module.
+This module contains a class that defines a square.
 """
 
 
-class Square:
-    """class defined for square generation
-    """
+class Square():
+    """Defines a square."""
+
     pass
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
